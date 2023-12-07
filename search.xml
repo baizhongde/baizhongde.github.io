@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>Lo_hong_format_string_part_1</title>
+      <title>Lỗ hổng Format String part 1</title>
       <link href="/2023/12/05/Lo-hong-format-string-part-1/"/>
       <url>/2023/12/05/Lo-hong-format-string-part-1/</url>
       
@@ -76,9 +76,9 @@
       
         <tags>
             
-            <tag> windows </tag>
-            
             <tag> IIS </tag>
+            
+            <tag> windows </tag>
             
             <tag> IISerpent </tag>
             
